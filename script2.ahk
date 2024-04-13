@@ -33,7 +33,7 @@ RemoveToolTip:
 return
 }
 
-; ctrl+shift+alt+v in every where
+; ctrl+shift+alt+v every where
 ; originalPaste
 ^+!v::
     SendInput {Raw}%Clipboard%
