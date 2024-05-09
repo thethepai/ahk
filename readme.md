@@ -19,3 +19,5 @@ about Capslock:
 script2 is for the lagacy version of the ahk
 
 script1 is for ahk 2.0 and newer version
+
+TODO：improve button conflict when using "original paste"
