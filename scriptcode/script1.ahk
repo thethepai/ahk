@@ -1,8 +1,3 @@
-; #SingleInstance, Force
-; sendMode, Input
-; SetBatchLines, -1
-; SetWorkingDir, %A_ScriptDir%
-
 ; mouse sideButton
 ; switchScreen
 XButton2::^#Left
